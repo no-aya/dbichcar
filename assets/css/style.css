@@ -44,7 +44,7 @@ Website: http://theemon.com
 	font-weight: 700;
 }
 .blockquote-warning {
-	border-left: 3px solid #ecac4a;
+	border-left: 3px solid #870700;
 }
 .list-styled {
 	list-style: disc;
@@ -61,7 +61,7 @@ Website: http://theemon.com
 .reserve-form .reserve-form-wrap {
 	background: url("https://images.pexels.com/photos/8305241/pexels-photo-8305241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat 0 0;
 	padding: 25px 30px 23px 30px;
-	border-bottom: 3px solid #ecac4a;
+	border-bottom: 3px solid #870700;
 	overflow: hidden;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -84,9 +84,9 @@ Website: http://theemon.com
 }
 .reserve-form .form-head .location span a {
 	font-size: 14px;
-	color: #ecac4a;
+	color: #870700;
 	font-family: 'Open Sans', sans-serif;
-	border-bottom: 1px dotted #ecac4a;
+	border-bottom: 1px dotted #870700;
 	line-height: 19px;
 }
 .reserve-form .form-head .location span {
@@ -96,7 +96,7 @@ Website: http://theemon.com
 }
 .reserve-form .form-head .location span i {
 	margin-right: 9px;
-	color: #ecac4a;
+	color: #870700;
 }
 .reserve-form .form-head .availability {
 	float: right;
@@ -105,7 +105,7 @@ Website: http://theemon.com
 	font-size: 21px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	color: #ecac4a;
+	color: #870700;
 	text-transform: capitalize;
 	padding: 0;
 	letter-spacing: 0;
@@ -196,7 +196,7 @@ Website: http://theemon.com
 	background-position: 0 0;
 }
 .map-wrapper .find-car {
-	background: #5e382d;
+	background: #000;
 }
 .get-bestoffer {
 	padding-top: 156px;
@@ -226,7 +226,7 @@ Website: http://theemon.com
 }
 .get-bestoffer .get-left .offer-details h3 {
 	font-size: 24px;
-	color: #3f2c25;
+	color: #000;
 	padding-bottom: 18px;
 	position: relative;
 }
@@ -248,11 +248,11 @@ Website: http://theemon.com
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
-	background: #ecac4a;
+	background: #870700;
 }
 .get-bestoffer .fa {
 	font-size: 36px;
-	color: #ecac4a;
+	color: #870700;
 }
 .get-bestoffer .offer-icon {
 	width: 78px;
@@ -293,14 +293,14 @@ Website: http://theemon.com
 }
 .absolute-header-deal h4 {
 	font-size: 14px;
-	color: #3f2c25;
+	color: #000;
 	text-transform: uppercase;
 	font-weight: 700;
 }
 .absolute-header-deal:after {
 	position: absolute;
 	width: 2px;
-	background: #ecac4a;
+	background: #870700;
 	height: 148px;
 	content: " ";
 	left: 0;
@@ -331,8 +331,8 @@ Website: http://theemon.com
 	background-size: cover;
 }
 .we-do-right {
-	background: #633f34;
-	border-bottom: 3px solid #ecac4a;
+	background: rgb(20, 20, 20);
+	border-bottom: 3px solid #870700;
 }
 .we_do-wrap {
 	position: relative;
@@ -408,7 +408,7 @@ Website: http://theemon.com
 	padding-top: 2px;
 }
 .blockquote-sign {
-	color: #ecac4a;
+	color: #870700;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
 	font-size: 36px;
@@ -433,7 +433,7 @@ Website: http://theemon.com
 	position: absolute;
 	top: 33px;
 	font-size: 36px;
-	color: #ecac4a;
+	color: gray;
 }
 .feature-we_do .small-item {
 	width: 30.33%;
@@ -493,7 +493,7 @@ Website: http://theemon.com
 	transform: translate(-50%,-50%);
 }
 .vehicle-item figcaption {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -503,7 +503,7 @@ Website: http://theemon.com
 	font-family: 'Montserrat', sans-serif;
 }
 .vehicle-item figure:hover {
-	border: 3px solid #ecac4a;
+	border: 3px solid #870700;
 	-webkit-transition: all 0.5s ease 0s;
 	-moz-transition: all 0.5s ease 0s;
 	-ms-transition: all 0.5s ease 0s;
@@ -512,7 +512,7 @@ Website: http://theemon.com
 	background: url(../images/white-patter-bg.jpg) 0 0 repeat;
 }
 .vehicle-item figure:hover figcaption {
-	background: #ecac4a;
+	background: #870700;
 	-webkit-transition: all 0.5s ease 0s;
 	-moz-transition: all 0.5s ease 0s;
 	-ms-transition: all 0.5s ease 0s;
@@ -538,7 +538,7 @@ Website: http://theemon.com
 	color: #81716b;
 }
 .car-details span small {
-	color: #ecac4a;
+	color: #870700;
 	font-weight: 700;
 	font-size: 14px;
 }
@@ -555,7 +555,7 @@ Website: http://theemon.com
 }
 .car-rating li {
 	font-size: 14px;
-	color: #ecac4a;
+	color: #870700;
 	display: inline-block;
 }
 .car-rating .grey-star {
@@ -569,7 +569,7 @@ Website: http://theemon.com
 	text-align: center;
 }
 .car-more-info li i {
-	color: #ecac4a;
+	color: #870700;
 	font-size: 14px;
 	margin-right: 5px;
 }
@@ -585,7 +585,7 @@ Website: http://theemon.com
 	color: #ffffff;
 }
 .orange-btn a {
-	background: #ecac4a;
+	background: #870700;
 	color: #ffffff;
 	padding: 6px 10px;
 	display: block;
@@ -641,7 +641,7 @@ Website: http://theemon.com
 	margin-bottom: 45px;
 }
 .co-founder-section a {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	padding: 14px 15px;
 	color: #ffffff;
 	font-size: 14px;
@@ -654,7 +654,7 @@ Website: http://theemon.com
 	margin-left: 5px;
 }
 .co-founder-section a:hover {
-	background: #ecac4a;
+	background: #870700;
 }
 .all-vehicles-wrapper {
 	background: url('https://images.pexels.com/photos/620335/pexels-photo-620335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') no-repeat;
@@ -698,7 +698,7 @@ Website: http://theemon.com
 	padding: 40px 0 50px 0;
 }
 .filter {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	padding: 10px 20px 10px 24px;
 	margin-bottom: 40px;
 }
@@ -716,7 +716,7 @@ a.selectBox {
 	display: inline-block;
 }
 .filter a {
-	color: #ecac4a;
+	color: #870700;
 	float: right;
 	padding: 10px 0 0 0;
 }
@@ -765,7 +765,7 @@ a.selectBox {
 .filter-widgets a {
 	width: 42px;
 	height: 42px;
-	background: #ecac4a;
+	background: #870700;
 	display: inline-block;
 	position: relative;
 	cursor: pointer;
@@ -797,7 +797,7 @@ a.selectBox {
 	position: relative;
 }
 .filter-car-details h5 {
-	color: #3f2c25;
+	color: #000;
 	font-size: 16px;
 	line-height: 22px;
 	margin-bottom: 4px;
@@ -816,7 +816,7 @@ a.selectBox {
 	font-weight: 700;
 }
 .filter-car-details .discount {
-	background: #ecac4a none repeat scroll 0 0;
+	background: #870700 none repeat scroll 0 0;
 	bottom: 15px;
 	color: #ffffff;
 	font-family: open sans;
@@ -830,9 +830,9 @@ a.selectBox {
 	content: "";
 	width: 0;
 	height: 0;
-	border: 12px solid #ecac4a;
-	border-right: 1px solid #ecac4a;
-	border-bottom: 12px solid #ecac4a;
+	border: 12px solid #870700;
+	border-right: 1px solid #870700;
+	border-bottom: 12px solid #870700;
 	border-left: 12px solid transparent;
 	position: absolute;
 	top: 0;
@@ -840,12 +840,12 @@ a.selectBox {
 }
 .filter-car-details span small {
 	font-size: 14px;
-	color: #ecac4a;
+	color: #870700;
 	font-weight: 700;
 }
 .filter-car-rating li {
 	float: left;
-	color: #ecac4a;
+	color: #870700;
 	margin-right: 5px;
 	font-size: 14px;
 }
@@ -865,7 +865,7 @@ a.selectBox {
 }
 .filter-car-more-info li i {
 	margin-right: 8px;
-	color: #ecac4a;
+	color: #870700;
 }
 .filter-car-more-info li.orange-btn {
 	padding: 0;
@@ -880,7 +880,7 @@ a.selectBox {
 	background: url('../images/line-bg.png') repeat-x center center;
 }
 .button {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	color: #ffffff;
 	font-size: 14px;
 	padding: 14px 17px;
@@ -897,12 +897,15 @@ a.selectBox {
 .your-dreams-wrapper {
 	background: url('../images/bg7.jpg') no-repeat;
 	padding: 75px 0;
-	border-bottom: 3px solid #ecac4a;
+	border-bottom: 3px solid #870700;
 	background-size: cover;
 }
 .your-dreams p {
 	color: #b0a19e;
 	margin-bottom: 26px;
+}
+.logo{
+	background-color: #000;
 }
 .brand-logo-wrapper span {
 	display: block;
@@ -931,7 +934,7 @@ a.selectBox {
 	vertical-align: middle;
 }
 .orange-btn {
-	background: #ecac4a;
+	background: #870700;
 	text-align: center;
 	padding: 5px 30px;
 	text-transform: uppercase;
@@ -972,7 +975,7 @@ a.selectBox {
 	margin-bottom: 20px;
 }
 .executive h5 {
-	color: #3f2c25;
+	color: #000;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 10px;
@@ -989,7 +992,7 @@ a.selectBox {
 }
 .executive:hover {
 	background: #ffffff;
-	border-bottom: 3px solid #ecac4a;
+	border-bottom: 3px solid #870700;
 	-webkit-transition: all 0.5s ease 0s;
 	-moz-transition: all 0.5s ease 0s;
 	-ms-transition: all 0.5s ease 0s;
@@ -1004,17 +1007,17 @@ a.selectBox {
 	margin: 0 5px;
 }
 .social-links li a i {
-	color: #3f2c25;
+	color: #000;
 	opacity: 0.4;
 	font-size: 13px;
 }
 .social-links li a i:hover {
-	color: #ecac4a;
+	color: #870700;
 	opacity: 1;
 }
 .awards-wrapper {
 	padding: 20px 0;
-	background: rgba(236,172,74,0.85);
+	background: rgb(20, 20, 20);
 }
 .awards {
 	padding: 20px 0;
@@ -1028,7 +1031,7 @@ a.selectBox {
 }
 .awards small {
 	font-size: 14px;
-	color: #3f2c25;
+	color: #000;
 	font-weight: 700;
 	text-transform: uppercase;
 }
@@ -1051,7 +1054,7 @@ a.selectBox {
 	width: 160px !important;
 }
 .find-car {
-	background: #ecac4a;
+	background: #870700;
 	padding: 15px;
 }
 .local-rental span {
@@ -1160,23 +1163,23 @@ a.selectBox {
 }
 .blog-page .input-text-wrap .input-box {
 	font-weight: 400px;
-	color: #5e382d;
+	color: rgb(20, 20, 20);
 	padding-left: 17px;
 }
 .blog-page .input-text-wrap .input-box::-moz-placeholder {
-	color: #5e382d;
+	color: rgb(20, 20, 20);
 	opacity: 0.4;
 }
 .blog-page .input-text-wrap .input-box::-webkit-input-placeholder {
-	color: #5e382d;
+	color: rgb(20, 20, 20);
 	opacity: 0.4;
 }
 .blog-page .textarea-wrap textarea::-moz-placeholder {
-	color: #5e382d;
+	color: rgb(20, 20, 20);
 	opacity: 0.4;
 }
 .blog-page .textarea-wrap textarea::-webkit-input-placeholder {
-	color: #5e382d;
+	color: rgb(20, 20, 20);
 	opacity: 0.4;
 }
 .rental-car .car-details-wrap .car-more-info li:last-child {
@@ -1231,7 +1234,7 @@ a.selectBox {
 }
 .need-help h2 {
 	text-transform: uppercase;
-	color: #3f2c25;
+	color: #000;
 	margin-bottom: 10px;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -1241,7 +1244,7 @@ a.selectBox {
 .need-help a {
 	font-size: 32px;
 	line-height: 1;
-	color: #ecac4a;
+	color: #870700;
 	font-weight: 700;
 	margin-bottom: 20px;
 	font-family: 'Montserrat', sans-serif;
@@ -1252,7 +1255,7 @@ a.selectBox {
 }
 .read-blog-wrapper h2, .media-wrap h2, .blog-page .contact-us h2 {
 	text-transform: uppercase;
-	color: #3f2c25;
+	color: #000;
 	margin-bottom: 25px;
 	font-family: 'Montserrat', sans-serif;
 	margin-top: 28px;
@@ -1261,7 +1264,7 @@ a.selectBox {
 	margin-top: 0 !important;
 }
 .blog-read-wrap h5 {
-	color: #3f2c25;
+	color: #000;
 	font-weight: 700;
 	text-transform: uppercase;
 	padding-bottom: 30px;
@@ -1303,11 +1306,10 @@ a.selectBox {
 	color: #fff;
 }
 .blog-read-wrap .item:hover {
-	background-image: url(../images/blog-hover-bg.jpg);
-	background-color: #ecae4f;
+	background-color: #870700;
 }
 .owl-buttons .owl-next, .owl-buttons .owl-prev {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	padding: 12px 18px 12px 18px;
 	color: #ffffff;
 	font-size: 14px;
@@ -1354,7 +1356,7 @@ a.selectBox {
 }
 .owl-buttons .owl-next:hover, .owl-buttons .owl-prev:hover, .button:hover {
 	color: #fff;
-	background: #ecac4a;
+	background: #870700;
 }
 .read-blog-listing {
 	position: relative;
@@ -1445,7 +1447,7 @@ a.selectBox {
 	border-top: 0 !important;
 }
 .banner2 {
-	background: url(../images/banner2-bg.jpg) no-repeat center top;
+	background-color: black;
 	margin-bottom: 50px;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -1453,10 +1455,10 @@ a.selectBox {
 }
 .banner2 h1 {
 	text-transform: uppercase;
-	color: #3f2c25;
+	color: #000;
 	font-weight: 400;
 	line-height: 42px;
-	border-left: 5px solid #3f2c25;
+	border-left: 5px solid #000;
 	padding-left: 30px;
 }
 .breadcrumb {
@@ -1469,13 +1471,13 @@ a.selectBox {
 .breadcrumb li a {
 	font-family: open sans;
 	font-size: 14px;
-	color: #3f2c25;
-	border-bottom: 1px solid #3f2c25;
+	color: #870700;
+	border-bottom: 1px solid #870700;
 	line-height: 14px;
 	display: inline-block;
 }
 .breadcrumb > .active {
-	color: #3f2c25;
+	color: #870700;
 }
 .breadcrumb > .active a {
 	border-bottom: 0;
@@ -1484,7 +1486,7 @@ a.selectBox {
 	content: "\f105";
 	font-family: FontAwesome;
 	padding: 0 7px;
-	color: #3f2c25;
+	color: #870700;
 }
 .main-image-block {
 	margin-bottom: 47px;
@@ -1532,7 +1534,7 @@ blockquote .client-msg {
 	font-size: 36px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
-	color: #5e382d;
+	color: rgb(20, 20, 20);
 	opacity: 0.15;
 	right: 0px;
 	top: -5px;
@@ -1567,7 +1569,7 @@ blockquote .client-msg {
 	display: none;
 }
 .feature-block li .fa {
-	color: #ecac4a;
+	color: #870700;
 	font-size: 36px;
 	float: left;
 	margin-right: 19px;
@@ -1576,7 +1578,7 @@ blockquote .client-msg {
 .feature-block li strong {
 	font-size: 16px;
 	font-family: 'Montserrat', sans-serif;
-	color: #3f2c25;
+	color: #000;
 	float: left;
 	width: calc(100% - 58px);
 	width: -webkit-calc(100% - 58px);
@@ -1600,13 +1602,13 @@ blockquote .client-msg {
 	width: 3px;
 }
 .features-point h5 strong {
-	color: #ecac4a;
+	color: #870700;
 	margin: 0 12px 0 0;
 }
 .features-point h5 small {
 	width: 15px;
 	height: 15px;
-	background-color: #ecac4a;
+	background-color: #870700;
 	border-radius: 50%;
 	display: inline-block;
 	margin: 0 20px 0 0;
@@ -1627,7 +1629,7 @@ blockquote .client-msg {
 	font-weight: 700;
 }
 h2.second-title {
-	color: #ecac4a;
+	color: #870700;
 	font-weight: 700;
 	margin: 0 0 80px 0;
 }
@@ -1651,7 +1653,7 @@ h2.second-title {
 .protect-block strong {
 	font-size: 24px;
 	line-height: 1;
-	color: #3f2c25;
+	color: #000;
 	font-family: "Montserrat", sans-serif;
 	display: block;
 	padding: 0 0 24px 0;
@@ -1668,7 +1670,7 @@ h2.second-title {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: rgba(236, 172, 74, 0.95);
+	background: #87070075;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -1695,7 +1697,7 @@ h2.second-title {
 	color: #ffffff;
 	font-family: 'Open Sans', sans-serif;
 	display: block;
-	background: #3f2c25;
+	background: #000;
 	text-align: center;
 	font-weight: 700;
 	padding: 14px 0;
@@ -1737,7 +1739,7 @@ h2.second-title {
 }
 .view-title-style, .view-title-style a {
 	font-weight: 700;
-	color: #3f2c25;
+	color: #000;
 	text-transform: uppercase;
 	margin: 0 0 20px 0;
 }
@@ -1812,7 +1814,7 @@ h2.second-title {
 	margin: 0 0 28px 0;
 }
 .services-pagination li a {
-	background: #5e382d none repeat scroll 0 0;
+	background: rgb(20, 20, 20) none repeat scroll 0 0;
 	color: #ffffff;
 	display: inline-block;
 	font-size: 14px;
@@ -1858,18 +1860,18 @@ h2.second-title {
 	border-top-right-radius: 0;
 }
 .services-pagination li a:hover, .services-pagination li.active a:hover, .services-pagination li.active a {
-	background: #ecac4a none repeat scroll 0 0;
+	background: #870700 none repeat scroll 0 0;
 	color: #fff;
 }
 .help-box {
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#643f35+0,623c32+50,643f35+100 */
-	background: #643f35; /* Old browsers */
-	background: -moz-linear-gradient(left, #643f35 0%, #623c32 50%, #643f35 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(left, #643f35 0%,#623c32 50%,#643f35 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #643f35 0%,#623c32 50%,#643f35 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#643f35', endColorstr='#643f35',GradientType=1 ); /* IE6-9 */
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/rgb(20, 20, 20)+0,623c32+50,643f35+100 */
+	background: rgb(20, 20, 20); /* Old browsers */
+	background: -moz-linear-gradient(left, rgb(20, 20, 20) 0%, #623c32 50%, rgb(20, 20, 20) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, rgb(20, 20, 20) 0%,#623c32 50%,rgb(20, 20, 20) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, rgb(20, 20, 20) 0%,#623c32 50%,rgb(20, 20, 20) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgb(20, 20, 20)', endColorstr='rgb(20, 20, 20)',GradientType=1 ); /* IE6-9 */
 	padding: 27px 26px 31px 26px;
-	border-bottom: 3px solid #ecac4a;
+	border-bottom: 3px solid #870700;
 	margin: 0 0 22px;
 }
 .help-box h4 {
@@ -1894,7 +1896,7 @@ h2.second-title {
 }
 .pdf-down i {
 	position: absolute;
-	background-color: #eeb45c !important;
+	background-color: #870700 !important;
 	width: 52px;
 	height: 100%;
 	vertical-align: middle;
@@ -1944,7 +1946,7 @@ h2.second-title {
 	left: 0;
 }
 .side-menu-block li a:hover::before, .side-menu-block li:hover .posts:before {
-	background-color: #ecac4a;
+	background-color: #870700;
 	width: 3px;
 	height: 32px;
 	content: "";
@@ -1980,7 +1982,7 @@ h2.second-title {
 	color: #81716b;
 }
 .contact-info address a:hover, .contact-info-footer address a:hover {
-	color: #ecac4a !important;
+	color: #870700 !important;
 }
 .border-line {
 	background-color: #ececec;
@@ -1994,7 +1996,7 @@ h2.second-title {
  4.) All Vehicles page
  ----------------------------------------*/
 .all-vehcles-filter {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 }
 .all-vehcles-filter .filter {
 	margin-bottom: 0;
@@ -2007,8 +2009,8 @@ h2.second-title {
 	padding-top: 40px;
 }
 .filter-car-aside {
-	background: #633e34;
-	border-bottom: 3px solid #ecac4a;
+	background: rgb(20, 20, 20);
+	border-bottom: 3px solid #870700;
 }
 .filter-car-selection {
 	padding: 25px 29px 16px;
@@ -2033,9 +2035,6 @@ h2.second-title {
 }
 .price-per-day {
 	padding: 25px 30px 13px 39px;
-	background: url(../images/rangeslider-bg.jpg) left top no-repeat;
-	-webkit-background-size: cover;
-	background-size: cover;
 	position: relative;
 }
 .ui-slider {
@@ -2056,7 +2055,7 @@ h2.second-title {
 	padding: 0;
 	height: 25px;
 	font-size: 12px;
-	color: #3f2c25;
+	color: #000;
 	font-family: "Montserrat", sans-serif;
 	font-weight: 700;
 }
@@ -2064,7 +2063,7 @@ h2.second-title {
 	text-align: right;
 }
 .ui-slider-range {
-	background: #644035;
+	background: #fff;
 	height: 100%;
 }
 .ui-slider .ui-slider-handle {
@@ -2073,8 +2072,8 @@ h2.second-title {
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
-	background: #644035;
-	border: 2px solid #fff;
+	background: #fff;
+	border: 2px solid #870700;
 }
 .vehicles-type {
 	padding-top: 36px;
@@ -2174,7 +2173,7 @@ h2.second-title {
 .circle-icon small {
 	width: 20px;
 	height: 20px;
-	background-color: #ecac4a;
+	background-color: #870700;
 	display: block;
 	border: 3px solid #ffffff;
 	border-radius: 50%;
@@ -2236,6 +2235,8 @@ h2.second-title {
  ----------------------------------------*/
 .service-office-img {
 	margin: 0 0 28px;
+	height: 362px;
+    object-fit: cover;
 }
 .insurance-block {
 	margin: 0 0 52px;
@@ -2269,13 +2270,13 @@ h2.second-title {
 	border-radius: 50%;
 }
 .circle-devide-sec li a.circle-first:before {
-	background-color: #ecac4a;
+	background-color: #870700;
 }
 .circle-devide-sec li a.circle-second:before {
 	background-color: #ec834a;
 }
 .circle-devide-sec li a.circle-third:before {
-	background-color: #5e382d;
+	background-color: rgb(20, 20, 20);
 }
 .cust-choice-block {
 	margin: 0 0 35px;
@@ -2297,7 +2298,7 @@ h2.second-title {
 	width: 6px;
 	height: 6px;
 	border-radius: 50%;
-	background-color: #ecac4a;
+	background-color: #870700;
 	position: absolute;
 	content: "";
 	left: 12px;
@@ -2318,7 +2319,7 @@ h2.second-title {
 	border: 0;
 }
 .panel-title {
-	background: #ecac4a none repeat scroll 0 0;
+	background: #870700 none repeat scroll 0 0;
 	color: #ffffff;
 	display: block;
 	font-family: "Open Sans", sans-serif;
@@ -2328,7 +2329,7 @@ h2.second-title {
 	font-size: 14px;
 }
 .panel-default > .panel-heading {
-	background-color: #ecac4a;
+	background-color: #870700;
 	border-color: inherit;
 	color: #ffffff;
 	width: 100%;
@@ -2414,7 +2415,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	top: 8px;
 }
 .download-files .orange-btn {
-	background-color: #5e382d;
+	background-color: rgb(20, 20, 20);
 	min-width: inherit;
 	padding: 7px 30px;
 	width: 100%;
@@ -2549,12 +2550,12 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	display: none;
 }
 .cloud-list-wrap .orange-btn {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	color: #fff;
 	min-width: 114px;
 }
 .cloud-list-wrap .orange-btn:hover {
-	background: #ecac4a;
+	background: #870700;
 	color: #fff;
 }
 .blog .contact-info {
@@ -2577,7 +2578,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 .play-btn {
 	width: 72px;
 	height: 54px;
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	display: block;
 	position: absolute;
 	top: 50%;
@@ -2625,14 +2626,14 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 }
 .vehicles-head h5 {
 	font-size: 24px;
-	color: #3f2c25;
+	color: #000;
 }
 .vehicles-head h5 {
 	display: inline-block;
 }
 .get-back-home {
 	font-size: 14px;
-	color: #ecac4a;
+	color: #870700;
 	text-decoration: underline;
 	float: right;
 }
@@ -2662,7 +2663,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	margin: 13px 0px 0px;
 }
 .car-details-wrap .car-more-info li:last-child {
-	border-top: 1px solid #ecac4a;
+	border-top: 1px solid #870700;
 }
 .vehicles-carousal-thumb {
 	position: absolute;
@@ -2680,7 +2681,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	position: relative;
 }
 .vehicles-carousal-thumb li.active {
-	border: 2px solid #ecac4a;
+	border: 2px solid #870700;
 }
 .social-media-list {
 	float: right;
@@ -2723,7 +2724,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	background: #ea4335;
 }
 .social-media-list h4, .tag-list h4 {
-	color: #3f2c25;
+	color: #000;
 	font-size: 21px;
 	display: inline-block;
 	padding: 10px 0px;
@@ -2731,7 +2732,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	margin-right: 15px;
 }
 .tab-list-feature li a.orange-btn {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	min-width: 115px;
 }
 .tab-list-feature {
@@ -2755,11 +2756,11 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 }
 .tab-list-feature li a small {
 	font-size: 14px;
-	color: #ecac4a;
+	color: #870700;
 	line-height: 1;
 }
 .tab-list-feature li {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 	margin-right: 10px;
 	margin-bottom: 0;
 }
@@ -2769,11 +2770,11 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 .tab-list-feature .nav-tabs > li.active > a {
 	border: 0;
 	background-color: #ffffff !important;
-	color: #3f2c25;
+	color: #000;
 }
 .tab-list-feature .nav-tabs > li > a:hover, .tab-list-feature .nav-tabs > li > a:focus {
 	background-color: #ffffff;
-	color: #3f2c25;
+	color: #000;
 }
 .para-related-description {
 	padding-top: 32px;
@@ -2792,7 +2793,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 }
 .list-feature-bullet li {
 	list-style-type: disc;
-	color: #ecac4a;
+	color: #870700;
 	padding-bottom: 3px;
 }
 .list-feature-bullet li span {
@@ -2804,14 +2805,14 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	color: #81716b;
 }
 .note .fa {
-	color: #ecac4a;
+	color: #870700;
 	font-size: 21px;
 	position: relative;
 	top: 3px;
 	margin-right: 14px;
 }
 .some-short-note {
-	border-left: 3px solid #ecac4a;
+	border-left: 3px solid #870700;
 	background: url(../images/line--pattern-bg.jpg) 0 0 repeat;
 	padding: 10px 12px 14px;
 	margin-top: 22px;
@@ -2838,7 +2839,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 }
 .percent, .safety {
 	font-size: 84px;
-	color: #3f2c25;
+	color: #000;
 	display: block;
 	text-align: center;
 	font-family: "Montserrat", sans-serif;
@@ -2901,7 +2902,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	padding: 0;
 }
 .blog-page .we_do-description .blockquote p {
-	color: #3f2c25;
+	color: #000;
 }
 .blog-page .we_do-description p {
 	color: #81716b;
@@ -3070,7 +3071,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	height: 1px;
 }
 .fa-mail-reply {
-	color: #3f2c25;
+	color: #000;
 	position: absolute;
 	top: 38px;
 	right: 0;
@@ -3106,7 +3107,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	margin-top: 23px;
 }
 .blog-page .textarea-wrap textarea {
-	color: #5e382d;
+	color: rgb(20, 20, 20);
 }
 .blog-page .contact-us {
 	background: none;
@@ -3118,7 +3119,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	padding-left: 17px;
 }
 .blog-page .input-text-wrap i, .blog-page .textarea-wrap i {
-	color: #5e382d;
+	color: rgb(20, 20, 20);
 }
 .blog-page .contact-us .orange-btn {
 	margin-bottom: 23px;
@@ -3187,7 +3188,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 }
 .map-form-inner {
 	background: url(../images/map-form-bg.jpg) 0 0 no-repeat;
-	border-bottom: 3px solid #ecac4a;
+	border-bottom: 3px solid #870700;
 	padding: 25px 30px 28px;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -3243,7 +3244,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 }
 .not-found-page h1 {
 	font-size: 460px;
-	color: #ecac4a;
+	color: #870700;
 	text-align: center;
 	line-height: 80vh;
 	font-weight: 700;
@@ -3257,7 +3258,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 	background-size: cover;
 	width: 100%;
 	height: 100%;
-	border-bottom: 3px solid #ecac4a;
+	border-bottom: 3px solid #870700;
 	min-height: 1200px;
 }
 .coming-soon-cont {
@@ -3327,7 +3328,7 @@ a[aria-expanded="false"] .fa.fa-minus-circle {
 }
 .contact-number {
 	font-size: 32px;
-	color: #ecac4a;
+	color: #870700;
 	font-family: "Montserrat", sans-serif;
 	font-weight: 700;
 	padding-top: 20px;
@@ -3483,10 +3484,10 @@ body #header.up {
 	margin: 0 auto;
 }
 .video-js .vjs-control-bar {
-	background: #5e382d;
+	background: rgb(20, 20, 20);
 }
 .video-js .vjs-play-progress, .video-js .vjs-volume-level {
-	background: #ecac4a;
+	background: #870700;
 }
 .video-js .vjs-slider {
 	background: url(../images/track-img.png) repeat;
@@ -3496,10 +3497,10 @@ body #header.up {
 	background: red;
 }
 .video-js .vjs-play-progress:before, .vjs-slider-horizontal .vjs-volume-level:before {
-	color: #ecac4a;
+	color: #870700;
 }
 .vjs-control-bar {
-	border-bottom: 5px solid #ecac4a;
+	border-bottom: 5px solid #870700;
 	box-sizing: content-box;
 }
 .location-group {
@@ -3552,10 +3553,11 @@ body #header.up {
 .orange-btn-edit{
 	margin-top: 30px;
 	width: 100%;
-	background-color: #5e382d !important;
+	background-color: #fff !important;
 }
 .orange-btn-edit > a{
-	background-color: #5e382d !important;
+	background-color: #fff !important;
+	color: black;
 }
 .container-cpy{
 	display: flex;
